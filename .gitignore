@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local development settings
+.env
+
+# Python distribution / packaging
+env/
+dist/
+build/
+*.egg-info/
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb
+
+# PyCharm files
+.idea/
+*.iml
+*.iws
+*.bak
+*.dsw
+*.pydevproject
+
+# Visual Studio Code files
+.vscode/
+*.code-workspace
